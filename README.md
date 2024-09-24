@@ -20,4 +20,4 @@ A little handy script that filters out all podcasts, news etc. from Spotifys Dai
 
 ## 🚀 Running
 Generally you want to run the script by executing `python main.py`.<br>
-This, however, only updates your filtered Daily Drive once. I recommend setting up a cronjob running every day at 1:10 AM.
+This, however, only updates your filtered Daily Drive once. I recommend setting up a cronjob running every day at 0:10 AM.
